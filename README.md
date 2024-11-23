@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o João Pedro 👋 
 
-<!--
-**johnaopedro/johnaopedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Sobre mim
+Sou um desenvolvedor apaixonado por aprender novas tecnologias e criar soluções que impactem positivamente o mundo. Atualmente, estou focado em melhorar minhas habilidades em **programação**, **aprendizado de máquina** e **desenvolvimento web**. 💻
 
-Here are some ideas to get you started:
+Estou sempre em busca de novos desafios e estou disposto a colaborar em projetos que ajudem a melhorar a vida das pessoas. Se você quiser trocar uma ideia ou colaborar em algum projeto, não hesite em me chamar!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=johnaopedro&show_icons=true&hide=prs&count_private=true&theme=radical)
+
+## ⚡ Badges Interativos
+
+### 👨‍💻 Trabalhos feitos
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnaopedro&theme=tokyonight)
+
+---
+
+✨ **Obrigado por visitar o meu perfil! Vamos nos conectar!**
