@@ -1,5 +1,3 @@
-# Olá, eu sou o João Pedro 👋 
-
 ## 🌱 Sobre mim
 Sou um desenvolvedor apaixonado por aprender novas tecnologias e criar soluções que impactem positivamente o mundo. Atualmente, estou focado em melhorar minhas habilidades em **programação**, **aprendizado de máquina** e **desenvolvimento web**. 💻
 
@@ -7,7 +5,7 @@ Estou sempre em busca de novos desafios e estou disposto a colaborar em projetos
 
 ## 📊 Estatísticas do GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=johnaopedro&show_icons=true&hide=prs&count_private=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=johnaopedro&show_icons=true&count_private=true&theme=radical)
 
 ## ⚡ Badges Interativos
 
