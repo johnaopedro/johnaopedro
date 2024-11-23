@@ -1,3 +1,4 @@
+# Olá, eu sou o João Pedro 👋 
 ## 🌱 Sobre mim
 Sou um desenvolvedor apaixonado por aprender novas tecnologias e criar soluções que impactem positivamente o mundo. Atualmente, estou focado em melhorar minhas habilidades em **programação**, **aprendizado de máquina** e **desenvolvimento web**. 💻
 
