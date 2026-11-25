@@ -29,9 +29,9 @@ Estou sempre em busca de novos desafios e estou disposto a colaborar em projetos
 ## Minhas Estatísticas
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=johnaopedro&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d0d0d"/>
+  <img height="170em" src="https://github-stats-extended.vercel.app/api?username=johnaopedro&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d0d0d"/>
   
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=johnaopedro&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d0d0d"/>
+  <img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=johnaopedro&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d0d0d"/>
 </p>
 
 <p align="center">
